@@ -1,0 +1,102 @@
+body {background-color: rgb(196, 238, 113);}
+
+.site {
+    text-align: center;
+    font-size: 48px;
+    border-style: solid;
+    border-width: 10px;
+    background-color: red;
+}
+.tour {
+    text-align: center;
+    color: red;
+    font-size: 28px;
+}
+
+#styledBand {
+  display:block;
+  margin-left: auto; 
+  margin-right: auto; 
+  border: 5px solid red;
+  width: 50%;
+}
+
+h3 {
+    color: red;
+    text-align: center;
+    font-size: 28px;
+
+}
+
+ol {
+    font-weight: bold;
+    text-align: center;
+}
+
+ol {
+    list-style-type: none;
+    line-height: 2.0;
+    text-align: center;
+}
+
+#shows {
+    text-align: center;
+}
+
+a {
+    text-align: center;
+    display:block
+}
+
+/* unvisited link */
+a:link {
+    color:blue;
+    text-align: center;
+}
+
+/* visited link*/
+a:visited {
+    color:blueviolet;
+    text-align: center;   
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+    text-align: center;
+}
+
+/* selectded link */
+a:active {
+    color: red;
+    text-align: center;
+}
+
+h4 {
+    color: red;
+    text-align: center;
+    font-size: 28px;
+
+}
+
+iframe {
+    display:block;
+    margin: 0 auto;
+}
+
+h5 {
+    color: red;
+    text-align: center;
+    font-size: 28px;
+
+}
+
+table, th, td {
+    border: 3px solid;
+    text-align: center;
+    background-color: orangered;
+    width: 66%;
+    margin: auto;
+    
+
+}
